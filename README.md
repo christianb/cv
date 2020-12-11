@@ -35,6 +35,7 @@ _Zattoo is a multi platform tv streaming provider._ <br>
 * Integrate RxJava and Room for reactive data observation
 * Fix more than 1800 Lint issues
 * Integration of Crashlytics
+* *Technologies used:* ExoPlayer, MVP, Dagger2, Jenkins, AndroidTV, FireTV
 
 **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
 * Rewriting App in 11 weeks
