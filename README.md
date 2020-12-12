@@ -2,7 +2,7 @@
 
 _Software Engineer, Android Developer, M. Sc. based in Berlin, Germany_ <br>
 
-[GitHub](https://github.com/christianb/)
+[GitHub](https://github.com/christianb/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [Xing](https://www.xing.com/profile/Christian_Bunk11/cv)
 
 ## Summary
 * **8+ years** professional experience in **Android** App Development
