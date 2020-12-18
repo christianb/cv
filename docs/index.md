@@ -16,14 +16,12 @@ Kotlin | Java | Python | C/C++ | Haskel | Ruby <br>
 ## Experience
 **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
 _All building systems in one platform. Digitalization from access to building control systems._ <br>
-* Developing of Sensorberg Whitelabel App & SDK
-* Integrate Coroutines and GraphQl
-* Integrate telecom framework
-* Integrate JetPack's Navigation Component
+* Developing of Sensorberg SDK and whitelabel app
+* Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
 * Flatten Bluetooth RSSI signal using Kalman Filter for better distance measuring
 * Refactor Bluetooth Scanner supporting Coroutines
-* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, Bluetooth, OkHttp, MVVM, Koin, GitLab, Docker, FireBase, AppCenter
+* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, Bluetooth, Gradle, OkHttp, MVVM, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), Espresso, JUnit, Mockk, Robolectric
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be successfuly executed using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
@@ -48,7 +46,7 @@ _Zattoo is a multi platform tv streaming provider._ <br>
 * Separating App in layers (Data, Domain and Presenter)
 * Clean Architecture with DataSource, Repository and UseCases
 * Being reactive using RxJava
-* _**Technologies used**_: Android, Java, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
+* _**Technologies used**_: Android, Java, Maven, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
 
 **Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
 
