@@ -16,7 +16,8 @@ Kotlin | Java | Python | C/C++ | Haskel | Ruby <br>
 ## Experience
 **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
 _All building systems in one platform. Digitalization from access to building control systems._ <br>
-* Developing of Sensorberg SDK and whitelabel app
+* Developing of Sensorberg SDK and whitelabel App
+* Increase Testability with Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
 * Flatten Bluetooth RSSI signal using Kalman Filter for better distance measuring
