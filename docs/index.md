@@ -15,14 +15,15 @@ Kotlin | Java | Python | C/C++ | Haskel | Ruby <br>
 
 ## Experience
 **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
-_All building systems in one platform. Digitalization from access to building control systems._ <br>
+_Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
+
 * Developing of Sensorberg SDK and whitelabel App
 * Increase Testability with Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
 * Flatten Bluetooth RSSI signal using Kalman Filter for better distance measuring
 * Refactor Bluetooth Scanner supporting Coroutines
-* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso
+* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Machine Learning, Keras
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be successfuly executed using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
@@ -30,7 +31,7 @@ _All building systems in one platform. Digitalization from access to building co
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
 
 **Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
-_Zattoo is a multi platform tv streaming provider._ <br>
+_Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._ <br>
 * Develop a whitelabel App available for Mobile, AndroidTV and FireTV
 * Increase testability using MVP and Dagger2
 * Integrate RxJava and Room for reactive data observation
@@ -39,6 +40,7 @@ _Zattoo is a multi platform tv streaming provider._ <br>
 * _**Technologies used**_: Android, Java, Kotlin, RxJava, ExoPlayer, Room, MVP, Retrofit, Dagger, Jenkins, AndroidTV, FireTV, HockeyApp, Crashlytics
 
 **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
+_Zalando is a European e-commerce company_ <br>
 * Rewriting App in 11 weeks
 * Implementation of the Backend API (Java / Spring)
 * Mentor for new employes.
