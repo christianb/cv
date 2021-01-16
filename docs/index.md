@@ -1,6 +1,6 @@
 # Christian Bunk
 
-_Software Engineer, Android Developer, M. Sc. based in Berlin, Germany_ <br>
+_Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 
 [GitHub](https://github.com/christianb/) | [Stack Overflow](https://stackoverflow.com/users/14794380/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [XING](https://www.xing.com/profile/Christian_Bunk11/cv)
 
@@ -41,8 +41,8 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 
 **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
 _Zalando is a European e-commerce company_ <br>
-* Rewriting App in 11 weeks
-* Implementation of the Backend API (Java / Spring)
+* Complete rewrite of App in 11 weeks
+* Implementation of Backend API (Java / Spring)
 * Mentor for new employes.
 * Migrate from custom HTTP implementation to Retrofit
 * Improve Architecture by implementing MVP to have higher testability
