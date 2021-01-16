@@ -21,9 +21,9 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Increase Testability with Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
-* Flatten Bluetooth RSSI signal using Kalman Filter for better distance measuring
+* Flatten Bluetooth RSSI signal using [Kalman-Filter](https://github.com/christianb/Kalman-Filter) for better distance measuring
 * Refactor Bluetooth Scanner supporting Coroutines
-* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Machine Learning, Keras
+* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be successfuly executed using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
