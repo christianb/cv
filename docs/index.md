@@ -25,7 +25,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Refactor Bluetooth Scanner supporting Coroutines
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
 * _**Selected open-source work**_:
-	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be successfuly executed using OkHttp & WorkManager.
+	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
 	* [docker-android](https://github.com/sensorberg/docker-android): Docker Image for Android to be used in CI.
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
