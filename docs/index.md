@@ -21,7 +21,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Increase Testability with Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
-* Flatten Bluetooth RSSI signal using [Kalman-Filter](https://github.com/christianb/Kalman-Filter) for better distance measuring
+* Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 * Refactor Bluetooth Scanner supporting Coroutines
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
 * _**Selected open-source work**_:
