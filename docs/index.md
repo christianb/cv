@@ -18,11 +18,12 @@ Kotlin | Java | Python | C/C++ | Haskel | Ruby <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 
 * Developing of Sensorberg SDK and whitelabel App
-* Increase Testability with Clean Code
+* Increase Testability with Dependency Injection and Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
 * Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 * Refactor Bluetooth Scanner supporting Coroutines
+* Migrate from REST to GraphQl
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
