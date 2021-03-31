@@ -11,18 +11,20 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 * Fluent in German and English
 
 ## Languages
-Kotlin | Java | Python | C/C++ | Haskel | Ruby <br>
+Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby <br>
 
 ## Experience
 **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 
-* Developing of Sensorberg SDK and whitelabel App
+* Developing of Sensorberg SDK and (whitelabel) App
 * Increase Testability with Dependency Injection and Clean Code
 * Support Clients with API Documentation & Changelog
 * Reducing APK size about 25% by converting PNG to WebP
 * Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 * Refactor Bluetooth Scanner supporting Coroutines
+* Clean integration and wrapping of third party libraries into Sensorberg SDK
+* Migrate from Apk to AppBundle for all whitelabel App's
 * Migrate from REST to GraphQl
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
 * _**Selected open-source work**_:
