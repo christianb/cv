@@ -17,16 +17,17 @@ Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby <br>
 **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 
-* Developing of Sensorberg SDK and (whitelabel) App
+* Developing of Sensorberg SDK and App
 * Increase Testability with Dependency Injection and Clean Code
-* Support Clients with API Documentation & Changelog
-* Reducing APK size about 25% by converting PNG to WebP
+* Integration and wrapping of third party libraries into Sensorberg SDK
+* Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
 * Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
-* Refactor Bluetooth Scanner supporting Coroutines
-* Clean integration and wrapping of third party libraries into Sensorberg SDK
-* Migrate from Apk to AppBundle for all whitelabel App's
-* Migrate from REST to GraphQl
-* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras
+* Refactor Bluetooth-Scanner supporting Coroutines
+* Migration from Apk to AppBundle
+* Integration of GraphQl
+* Support Clients with Sensorberg SDK [Api](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [Dokumentation](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
+* Reducing APK size about 25% by converting PNG to WebP
+* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras, Android Telecom Framework
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
