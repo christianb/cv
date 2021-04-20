@@ -23,6 +23,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
 * Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 * Refactor Bluetooth-Scanner supporting Coroutines
+* Remove dependency to Bitrise Android Docker image by creating a [Sensorberg Android Docker](https://github.com/sensorberg/permission-bitte) image for CI
 * Migration from Apk to AppBundle
 * Integration of GraphQl
 * Support Clients with Sensorberg SDK [Api](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [Dokumentation](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
@@ -31,7 +32,6 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
-	* [docker-android](https://github.com/sensorberg/docker-android): Docker Image for Android to be used in CI.
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
 
 **Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
