@@ -26,6 +26,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Remove dependency to Bitrise Android Docker image by creating a [Sensorberg Android Docker](https://github.com/sensorberg/permission-bitte) image for CI
 * Migration from Apk to AppBundle
 * Integration of GraphQl
+* Integration of Jetpack Compose
 * Support Clients with Sensorberg SDK [Api](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [Dokumentation](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Reducing APK size about 25% by converting PNG to WebP
 * Creating custom lint rules
