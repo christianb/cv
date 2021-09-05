@@ -19,6 +19,8 @@ _Sensorberg develops hardware and software for the digitization from access to b
 
 * Developing of Sensorberg SDK and App
 * Increase Testability with Dependency Injection and Clean Code
+* Setup Espresso Integration tests
+* Writing test scenarios for manual app testing
 * Integration and wrapping of third party libraries into Sensorberg SDK
 * Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
 * Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
@@ -27,7 +29,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Migration from Apk to AppBundle
 * Integration of GraphQl
 * Integration of Jetpack Compose
-* Support Clients with Sensorberg SDK [Api](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [Dokumentation](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
+* Write SDK [Api dokumentation](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Reducing APK size about 25% by converting PNG to WebP
 * Creating custom lint rules
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras, Android Telecom Framework
@@ -36,7 +38,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
 
-**Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
+**Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._ <br>
 * Develop a whitelabel App available for Mobile, AndroidTV and FireTV
 * Increase testability using MVP and Dagger2
