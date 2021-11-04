@@ -32,6 +32,8 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Write SDK [Api dokumentation](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Reducing APK size about 25% by converting PNG to WebP
 * Creating custom lint rules
+* Applying [Accessibility](https://www.android.com/accessibility/) and TalkBack helping people using our App.
+* Building a Calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras, Android Telecom Framework
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
