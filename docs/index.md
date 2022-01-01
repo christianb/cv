@@ -5,7 +5,7 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 [GitHub](https://github.com/christianb/) | [Stack Overflow](https://stackoverflow.com/users/14794380/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [XING](https://www.xing.com/profile/Christian_Bunk11/cv)
 
 ## Summary
-* **8+ years** professional experience in **Android** App Development
+* **9+ years** professional experience in **Android** App Development
 * Focus on **SOLID**, Design Pattern, **Clean Code** and Testability
 * Working on **IoT**, **IPTV** and **E-commerce** applications
 * Fluent in German and English
@@ -14,25 +14,23 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby <br>
 
 ## Experience
-**Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
+### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/en) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 
-* Developing of Sensorberg SDK and App
-* Increase Testability with Dependency Injection and Clean Code
-* Setup Espresso Integration tests
-* Writing test scenarios for manual app testing
-* Integration and wrapping of third party libraries into Sensorberg SDK
+* Development and maintainance of Sensorberg Android App, SDK and Libraries
+* Increasing Testability by applying __Clean Code__, making classes testable, writing __Junit__ and __Espresso__ tests, defining scenarios for manual testing
+* Integration of third party libreries into our SDK
 * Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
-* Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
-* Refactor Bluetooth-Scanner supporting Coroutines
-* Remove dependency to Bitrise Android Docker image by creating a [Sensorberg Android Docker](https://github.com/sensorberg/permission-bitte) image for CI
-* Migration from Apk to AppBundle
-* Integration of GraphQl
-* Integration of Jetpack Compose
-* Write SDK [Api dokumentation](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
+* Reducing __Bluetooth__ signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
+* Refactor Bluetooth-Scanner supporting __Coroutines__ and __Flow__
+* Create Android Docker image [Sensorberg Android Docker](https://github.com/sensorberg/docker-android) for __Gitlab__ CI
+* Migration from Apk to __AppBundle__
+* Integration of __GraphQl__
+* Integration of __Jetpack Compose__
+* Write SDK [API dokumentation](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Reducing APK size about 25% by converting PNG to WebP
 * Creating custom lint rules
-* Applying [Accessibility](https://www.android.com/accessibility/) and TalkBack helping people using our App.
+* Applying [Accessibility](https://www.android.com/accessibility/) and __TalkBack__
 * Building a Calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
 * _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras, Android Telecom Framework
 * _**Selected open-source work**_:
@@ -40,7 +38,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
 
-**Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
+### **Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._ <br>
 * Develop a whitelabel App available for Mobile, AndroidTV and FireTV
 * Increase testability using MVP and Dagger2
@@ -49,7 +47,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 * Integration of Crashlytics
 * _**Technologies used**_: Android, Java, Kotlin, RxJava, ExoPlayer, Room, MVP, Retrofit, Dagger, Jenkins, AndroidTV, FireTV, HockeyApp, Crashlytics
 
-**Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
+### **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
 _Zalando is a European e-commerce company_ <br>
 * Complete rewrite of App in 11 weeks
 * Implementation of Backend API (Java / Spring)
