@@ -7,7 +7,7 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 ## Summary
 * **9+ years** professional experience in **Android** App Development
 * Focus on **SOLID**, Design Pattern, **Clean Code** and Testability
-* Working on **IoT**, **IPTV** and **E-commerce** applications
+* Working on **PropTech**, **IPTV** and **E-commerce** applications
 * Fluent in German and English
 
 ## Languages
