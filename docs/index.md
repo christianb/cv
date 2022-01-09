@@ -73,6 +73,6 @@ _Zalando is a European e-commerce company_ <br>
 [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) - Berlin, Germany _(2007 - 2010)_
 
 ## Certificates
-* [Udemy: SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-362ff42a-9cdb-4e4d-bc34-d6f33b9d68a7/)
-* [Udemy: Kotlin Coroutines for Android Masterclass](https://www.udemy.com/certificate/UC-f8edec3e-b695-4f12-a102-fb389aac03b3/)
-* [Udemy: Android Multithreading Masterclass](https://www.udemy.com/certificate/UC-37c6e9e4-74fc-490d-abdb-7dd66ce94ced/)
+* [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-362ff42a-9cdb-4e4d-bc34-d6f33b9d68a7/)
+* [Kotlin Coroutines for Android Masterclass](https://www.udemy.com/certificate/UC-f8edec3e-b695-4f12-a102-fb389aac03b3/)
+* [Android Multithreading Masterclass](https://www.udemy.com/certificate/UC-37c6e9e4-74fc-490d-abdb-7dd66ce94ced/)
