@@ -5,7 +5,7 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 [GitHub](https://github.com/christianb/) | [Stack Overflow](https://stackoverflow.com/users/14794380/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [XING](https://www.xing.com/profile/Christian_Bunk11/cv)
 
 ## Summary
-* **9+ years** professional experience in **Android** App Development
+* **9+ years** professional working with **Android**
 * Focus on **SOLID**, Design Pattern, **Clean Code** and Testability
 * Working on **PropTech**, **IPTV** and **E-commerce** applications
 * Fluent in German and English
