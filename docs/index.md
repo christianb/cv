@@ -17,7 +17,7 @@ Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby <br>
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 
-* Development and maintainance of Sensorberg Android App, SDK and Libraries
+* Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office), SDK and Libraries
 * Increasing Testability by applying __Clean Code__, making classes testable, writing __Junit__ and __Espresso__ tests, defining scenarios for manual testing
 * Integration of third party libreries into our SDK
 * Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
@@ -40,7 +40,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 
 ### **Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._ <br>
-* Develop a whitelabel App available for Mobile, AndroidTV and FireTV
+* Develop the [Zattoo whitelabel App](https://play.google.com/store/apps/details?id=com.zattoo.player) available for Mobile, AndroidTV and FireTV
 * Increase testability using MVP and Dagger2
 * Integrate RxJava and Room for reactive data observation
 * Fix more than 1800 Lint issues
@@ -49,7 +49,8 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 
 ### **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
 _Zalando is a European e-commerce company_ <br>
-* Complete rewrite of App in 11 weeks
+* First release of the [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
+* Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
 * Implementation of Backend API (Java / Spring)
 * Mentor for new employes.
 * Migrate from custom HTTP implementation to Retrofit
@@ -59,11 +60,11 @@ _Zalando is a European e-commerce company_ <br>
 * Being reactive using RxJava
 * _**Technologies used**_: Android, Java, Maven, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
 
-**Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
+### **Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
 
-**Internship - Android Developer** @ [ART+COM AG](https://www.htw-berlin.de/en/) _(Dez 2009 - Feb 2010)_ <br>
+### **Internship - Android Developer** @ [ART+COM AG](https://www.htw-berlin.de/en/) _(Dez 2009 - Feb 2010)_ <br>
 
-**Internship** @ [Cornelsen Verlag GmbH](https://www.cornelsen.de/) _(Aug 2006 - Jun 2007)_ <br>
+### **Internship** @ [Cornelsen Verlag GmbH](https://www.cornelsen.de/) _(Aug 2006 - Jun 2007)_ <br>
 
 ## Education
 **Master of Science** in Applied Computer Science <br>
