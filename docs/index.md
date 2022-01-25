@@ -62,7 +62,7 @@ _Zalando is a European e-commerce company_ <br>
 
 ### **Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
 
-### **Internship - Android Developer** @ [ART+COM AG](https://www.htw-berlin.de/en/) _(Dez 2009 - Feb 2010)_ <br>
+### **Internship - Android Developer** @ [ART+COM AG](https://artcom.de/en/) _(Dez 2009 - Feb 2010)_ <br>
 
 ### **Internship** @ [Cornelsen Verlag GmbH](https://www.cornelsen.de/) _(Aug 2006 - Jun 2007)_ <br>
 
