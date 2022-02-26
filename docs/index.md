@@ -25,7 +25,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Writing documentation like [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Applying [Accessibility](https://www.android.com/accessibility/) and __TalkBack__
 * Building a calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
-* _**Technologies used**_: Android, Kotlin, Coroutines, __GraphQl__, __Jetpack (Compose, Navigation, WorkManager, Paging, Room)__, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python
+* _**Technologies used**_: Android, Kotlin, __Coroutines__, __GraphQl__, Jetpack (__Compose__, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, __Docker__, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
