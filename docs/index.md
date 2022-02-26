@@ -11,28 +11,21 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 * Fluent in German and English
 
 ## Languages
-Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby <br>
+Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby | Objective-C <br>
 
 ## Experience
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
-
 * Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office), SDK and Libraries
 * Increasing Testability by applying __Clean Code__, making classes testable, writing __Junit__ and __Espresso__ tests, defining scenarios for manual testing
-* Integration of third party libreries into our SDK
-* Create [Push Notification plugin](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/push/) that extends Sensorberg core SDK
+* Integration of third party libreries into Sensorberg SDK
 * Reducing __Bluetooth__ signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 * Refactor Bluetooth-Scanner supporting __Coroutines__ and __Flow__
-* Create Android Docker image [Sensorberg Android Docker](https://github.com/sensorberg/docker-android) for __Gitlab__ CI
-* Migration from Apk to __AppBundle__
-* Integration of __GraphQl__
-* Integration of __Jetpack Compose__
-* Write SDK [API dokumentation](https://android.sensorberg.io/sw-sdk/public/android-sdk-kdoc/index.html) & [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
-* Reducing APK size about 25% by converting PNG to WebP
-* Creating custom lint rules
+* Develop and maintain GitLab CI pipeline by creating an Android Docker image [Sensorberg Android Docker](https://github.com/sensorberg/docker-android) 
+* Writing documentation like [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Applying [Accessibility](https://www.android.com/accessibility/) and __TalkBack__
-* Building a Calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
-* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JetPack (Navigation, WorkManager, Paging, Room), JUnit, Mockk, Robolectric, Espresso, Python, [Machine Learning](https://github.com/christianb/NeuralNetwork), Keras, Android Telecom Framework
+* Building a calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
+* _**Technologies used**_: Android, Kotlin, Coroutines, __GraphQl__, __Jetpack (Compose, Navigation, WorkManager, Paging, Room)__, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
