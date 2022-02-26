@@ -44,13 +44,11 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 _Zalando is a European e-commerce company_ <br>
 * First release of the [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
 * Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
-* Implementation of Backend API (Java / Spring)
+* Developing Backend API (Java / Spring)
 * Mentor for new employes.
 * Migrate from custom HTTP implementation to Retrofit
-* Improve Architecture by implementing MVP to have higher testability
-* Separating App in layers (Data, Domain and Presenter)
-* Clean Architecture with DataSource, Repository and UseCases
-* Being reactive using RxJava
+* Increase testability
+* Separating App in layers and applying Clean Architecture
 * _**Technologies used**_: Android, Java, Maven, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
 
 ### **Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
