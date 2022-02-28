@@ -17,19 +17,19 @@ Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby | Objective-C <br>
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Present)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 * Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office), SDK and Libraries
-* Increasing Testability by applying __Clean Code__, making classes testable, writing __Junit__ and __Espresso__ tests, defining scenarios for manual testing
+* Increasing Testability by applying Clean Code, making classes testable, writing Junit and Espresso tests, defining scenarios for manual testing
 * Integration of third party libreries into Sensorberg SDK
-* Reducing __Bluetooth__ signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
-* Refactor Bluetooth-Scanner supporting __Coroutines__ and __Flow__
+* Refactor Bluetooth-Scanner supporting Coroutines and __Flow
 * Develop and maintain GitLab CI pipeline by creating an Android Docker image [Sensorberg Android Docker](https://github.com/sensorberg/docker-android) 
 * Writing documentation like [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
-* Applying [Accessibility](https://www.android.com/accessibility/) and __TalkBack__
+* Applying [Accessibility](https://www.android.com/accessibility/) and TalkBack
 * Building a calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
-* _**Technologies used**_: Android, Kotlin, __Coroutines__, __GraphQl__, Jetpack (__Compose__, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, __Docker__, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python
+* _**Technologies used**_: Android, Kotlin, Coroutines, GraphQl, Jetpack (Compose, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
 	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
+	* Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 
 ### **Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._ <br>
