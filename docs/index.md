@@ -19,7 +19,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office), SDK and Libraries
 * Increasing Testability by applying Clean Code, making classes testable, writing Junit and Espresso tests, defining scenarios for manual testing
 * Integration of third party libreries into Sensorberg SDK
-* Refactor Bluetooth-Scanner supporting Coroutines and __Flow
+* Refactor Bluetooth-Scanner supporting Coroutines and Flow
 * Develop and maintain GitLab CI pipeline by creating an Android Docker image [Sensorberg Android Docker](https://github.com/sensorberg/docker-android) 
 * Writing documentation like [How to use SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
 * Applying [Accessibility](https://www.android.com/accessibility/) and TalkBack
