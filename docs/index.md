@@ -19,12 +19,11 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
 * Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
 * Integration of third party libreries into Sensorberg SDK
+* Publishing SDK and libraries to Maven
 * Working closely with Product (writing Tech-Tickets), Design, UX, Delivery, Backend-Developers within a SCRUM environment
 * Develop and maintain GitLab CI pipeline by creating an [Android Docker image](https://github.com/sensorberg/docker-android)
 * Writing documentation for the [Sensorberg SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
-* Applying [Accessibility](https://www.android.com/accessibility/) and TalkBack
-* Building a calling Application using [Jitsi](https://jitsi.github.io/handbook/docs/intro)
-* _**Technologies used**_: Android , Kotlin, Coroutines, GraphQl, Jetpack (Compose, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python, Git, Scrum, Jira
+* _**Technologies used**_: Android , Kotlin, Coroutines, GraphQl, Jetpack (Compose, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python, Git, Scrum, Jira, [Jitsi](https://jitsi.github.io/handbook/docs/intro)
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
