@@ -11,7 +11,7 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 * Fluent in German and English
 
 ## Languages
-Kotlin | Java | Python | Go | C/C++ | Haskel | Ruby | Objective-C <br>
+Kotlin | Java | Python | Dart | Go | C/C++ | Haskel | Ruby | Objective-C <br>
 
 ## Experience
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Present)_ <br>
@@ -23,7 +23,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * Working closely with Product, Design, UX, Delivery, Backend-Developers within a SCRUM environment
 * Develop and maintain GitLab CI pipeline by creating an [Android Docker image](https://github.com/sensorberg/docker-android)
 * Writing documentation for the [Sensorberg SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
-* _**Technologies used**_: Android , Kotlin, Coroutines, GraphQl, Jetpack (Compose, Navigation, WorkManager, Paging, Room), ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python, Git, Scrum, Jira, [Jitsi](https://jitsi.github.io/handbook/docs/intro)
+* _**Technologies used**_: Android , Kotlin, Coroutines, GraphQl, Jetpack (Compose, Navigation, WorkManager, Paging, Room), Flutter, ViewModel, LiveData, Bluetooth, Gradle, OkHttp, Koin, GitLab, Docker, FireBase, AppCenter, JUnit, Mockk, Robolectric, Espresso, Python, Git, Scrum, Jira, [Jitsi](https://jitsi.github.io/handbook/docs/intro)
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
