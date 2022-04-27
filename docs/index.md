@@ -14,7 +14,7 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 Kotlin | Java | Python | Dart | Go | C/C++ | Haskel | Ruby | Objective-C <br>
 
 ## Experience
-### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Present)_ <br>
+### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com/about-us) _(Apr 2019 - Mai 2022)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
 * Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
 * Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
