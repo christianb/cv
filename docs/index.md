@@ -44,7 +44,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 
 ### **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(Jan 2013 - Aug 2016)_ <br>
 _Zalando is a European e-commerce company_ <br>
-* First release of the [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
+* Developed and published the first [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
 * Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
 * Developing Backend API (Java / Spring)
 * Mentor for new employes.
@@ -72,6 +72,3 @@ _Zalando is a European e-commerce company_ <br>
 * [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-362ff42a-9cdb-4e4d-bc34-d6f33b9d68a7/)
 * [Kotlin Coroutines for Android Masterclass](https://www.udemy.com/certificate/UC-f8edec3e-b695-4f12-a102-fb389aac03b3/)
 * [Android Multithreading Masterclass](https://www.udemy.com/certificate/UC-37c6e9e4-74fc-490d-abdb-7dd66ce94ced/)
-
-## Fun Skill
-I can solve the Rubiks Cube in 3 minutes.
