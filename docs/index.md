@@ -5,13 +5,13 @@ _Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
 [GitHub](https://github.com/christianb/) | [Stack Overflow](https://stackoverflow.com/users/14794380/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [XING](https://www.xing.com/profile/Christian_Bunk11/cv)
 
 ## Summary
-* **9+ years** professional working with **Android**
-* Focus on **SOLID**, Design Pattern, **Clean Code** and Testability
-* Working on **PropTech**, **IPTV** and **E-commerce** applications
+* **10+ years** professionally working with Android
+* Focus on SOLID, Design Pattern, Clean Code and Testability
+* Working on Security, PropTech, IPTV and E-commerce applications
 * Fluent in German and English
 
 ## Languages
-Kotlin | Java | Python | Dart | Go | C/C++ | Haskel | Ruby | Objective-C <br>
+Kotlin | Java | Python | Go | C/C++ | Dart | Haskel | Ruby | Objective-C <br>
 
 ## Experience
 
@@ -30,7 +30,6 @@ _Sensorberg develops hardware and software for the digitization from access to b
 * _**Selected open-source work**_:
 	* [alioli-http](https://github.com/sensorberg/alioli-http): Intercepting Http requests to ensure they will be executed within a time frame using OkHttp & WorkManager.
 	* [permission-pitte](https://github.com/sensorberg/permission-bitte): Easiest way to ask for user permission in Android
-	* [android-event](https://github.com/sensorberg/android-event): An Event class that can be consumed only once. This is useful for LiveData.
 	* Reducing Bluetooth signal noise using [Kalman-Filter](https://github.com/christianb/Kalman-Filter)
 
 ### **Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(Sep 2016 - Mar 2019)_ <br>
