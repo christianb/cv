@@ -21,6 +21,7 @@ Compose | Coroutines | Detekt | Espresso | Git | GitLab | Junit 4/5 | Koin | Moc
 ### __Senior Android Developer__ @ [Nord Security](https://nordsecurity.com/about-us) _(Jun 2022 - Present)_ <br>
 _NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model._
 * Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams) 
+* Mentoring Junior- and Mid-Level developers (also from other departments)
 
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com) _(Apr 2019 - Mai 2022)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
