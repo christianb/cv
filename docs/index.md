@@ -1,20 +1,14 @@
 # Christian Bunk
+Berlin, Germany
+christian@bunk.simplelogin.com
 
-_Software Engineer, Android Developer, M. Sc.<br> based in Berlin, Germany_ <br>
+[github.com/christianb](https://github.com/christianb) <br>
+[linkedin.com/in/christianbunk](https://linkedin.com/in/christianbunk)
 
-[GitHub](https://github.com/christianb/) | [Stack Overflow](https://stackoverflow.com/users/14794380/) | [LinkedIn](https://www.linkedin.com/in/christianbunk/) | [XING](https://www.xing.com/profile/Christian_Bunk11/cv)
-
-## Summary
-* **10+ years** professionally working with Android
-* Focus on Testability and Clean Code
+* **11+ years** professionally working with Android
+* Product-minded engineer with strong focus on testability and clean code
 * Worked in different domains, like Security, PropTech, IPTV and E-commerce
 * Fluent in German and English
-
-## Languages
-C/C++ | Dart | Go | Haskel | Java | Kotlin | Objective-C | Python | Ruby <br>
-
-## Technologies & Frameworks
-Compose | Coroutines | Detekt | Espresso | Git | GitLab | Junit 4/5 | Koin | Mockk | Retrofit | Robolectric | Room | WorkManager <br>
 
 ## Experience
 
@@ -58,22 +52,10 @@ _Zalando is a European e-commerce company_ <br>
 * Separating App in layers and applying Clean Architecture
 * _**Technologies used**_: Android, Java, Maven, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
 
-### **Student Assistant - iOS Developer** @ [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) _(Dez 2010 - Aug 2012)_ <br>
-
-### **Internship - Android Developer** @ [ART+COM AG](https://artcom.de/en/) _(Dez 2009 - Feb 2010)_ <br>
-
-### **Internship** @ [Cornelsen Verlag GmbH](https://www.cornelsen.de/) _(Aug 2006 - Jun 2007)_ <br>
+## Technologies & Languages
+* Languages: Kotlin, Java, Python, C/C++, Go, Dart, Ruby <br>
+* Technologies: Compose, Coroutines, Dagger 2, Detekt, Espresso, Git, GitLab,  Junit 4/5,  Koin, Mockk, Retrofit, Robolectric, Room, WorkManager <br>
 
 ## Education
-**Master of Science** in Applied Computer Science <br>
-[University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) - Berlin, Germany _(2010 - 2012)_
-
-**Bachelor of Science** in Applied Computer Science <br>
-[University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) - Berlin, Germany _(2007 - 2010)_
-
-## Certificates
-* [Android Unit Testing and Test Driven Development](https://www.udemy.com/certificate/UC-00b1ef27-333c-4c8c-bc59-efa5109d0dff/)
-* [Android Architecture Masterclass](https://www.udemy.com/certificate/UC-09deddb8-1954-4b5d-9437-8b659748dbee/)
-* [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-362ff42a-9cdb-4e4d-bc34-d6f33b9d68a7/)
-* [Kotlin Coroutines for Android Masterclass](https://www.udemy.com/certificate/UC-f8edec3e-b695-4f12-a102-fb389aac03b3/)
-* [Android Multithreading Masterclass](https://www.udemy.com/certificate/UC-37c6e9e4-74fc-490d-abdb-7dd66ce94ced/)
+* **M.Sc.** in Applied Computer Science [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) - Berlin, Germany _(2010 - 2012)_
+* **B.Sc.** in Applied Computer Science [University of Applied Sciences Berlin](https://www.htw-berlin.de/en/) - Berlin, Germany _(2007 - 2010)_
