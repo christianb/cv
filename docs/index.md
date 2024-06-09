@@ -43,15 +43,15 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Android Dev Team size: 3 - 7
 	     
 ### **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_ <br>
-_Zalando is a European e-commerce company_ <br>
-* Developed and published the first [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
-* Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
-* Developing Backend API (Java / Spring)
-* Mentor for new employes.
-* Migrate from custom HTTP implementation to Retrofit
-* Increase testability
-* Separating App in layers and applying Clean Architecture
-* _**Technologies used**_: Android, Java, Maven, Retrofit, Spring, RoboGuice, Dagger, Jenkins, RxJava
+ _Zalando is a leading European online platform for fashion and lifestyle._
+- Developed and published the very first Zalando Shopping Android App 1.0
+- Developed the Zalon Android App
+- Developing Backend API (Java / Spring)
+- Mentor for new employes.
+- Migrate from custom HTTP implementation to Retrofit
+- Increase testability
+- Separating App in layers and applying Clean Architecture
+- Android Dev Team size: 3 - 12
 
 ## Technologies & Languages
 * Languages: Kotlin, Java, Python, C/C++, Go, Dart, Ruby <br>
