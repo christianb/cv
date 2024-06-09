@@ -2,17 +2,24 @@
 Berlin, Germany <br>
 christian@bunk.simplelogin.com
 
-* **11+ years** professionally working with Android
-* Product-minded engineer with strong focus on testability and clean code
-* Worked in different domains, like Security, PropTech, IPTV and E-commerce
-* Fluent in German and English
+Product-minded engineer with more than 11 years professional experience developing Android applications. <br>
+I had the chance working in different domains like e-commerce, IP TV streaming, access control and security. <br>
+I strongly focus on clear communication, testing, getting things done and clean code.
 
 ## Experience
 
 ### Senior Android Developer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present) <br>
-_NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model._
-* Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams) 
-* Mentoring Junior- and Mid-Level developers (also from other departments)
+- Developing NordLayer's VPN Android App: _(NordLayer is providing cybersecurity tools for businesses)_
+- Going from only a few to more than a thousand unit and UI tests to ensure a stable code base
+- Simplify App release flow. I built a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
+- Significantly decreasing app (clean) build time by extracting native C libraries into separate repositories and providing them as maven artifacts
+- Analyze and evaluating new technologies or potential security risks
+- Supporting PO by taking the lead in Scrum planning & Backlog grooming
+- Sharing knowledge by mentoring Junior- and Mid-Level developers
+- Maintaining internal SDKs (artifacts & documentation)
+- Replacing all RxJava with Coroutines and Flow
+- Integrating Lint and Detekt checks to ensure a clean codebase
+- Android Dev Team size: 1 - 3
 
 ### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com) _(2019 - 2022)_ <br>
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._ <br>
