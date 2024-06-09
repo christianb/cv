@@ -28,7 +28,6 @@ _Sensorberg develops hardware and software for the digitization from access to b
 - Implement Access Controll via QR-Code, NFC, Bluetooth and IP
 - Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
 - Integration of third party libraries into Sensorberg SDK
-- Publishing SDK and libraries to Maven
 - Working closely with Product, Design, UX, Delivery, Backend-Developers within a SCRUM environment
 - Develop and maintain GitLab CI pipeline
 - Android Dev Team size: 1 - 2
@@ -38,18 +37,13 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Develop the whitelabel Zattoo App available for Mobile, AndroidTV and FireTV
 - Increase testability using MVP and Dagger2
 - Integrate RxJava and Room for reactive data observation
-- Fix more than 1800 Lint issues
-- Integration of Crashlytics
 - Android Dev Team size: 3 - 7
 	     
 ### **Junior/Mid Android Developer** @ [Zalando](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_
  _Zalando is a leading European online platform for fashion and lifestyle._
 - Developed and published the very first Zalando Shopping Android App 1.0
-- Developed the Zalon Android App
-- Developing Backend API (Java / Spring)
-- Mentor for new employes.
+- Developed the Zalon Android App + Backend API (Java / Spring)
 - Migrate from custom HTTP implementation to Retrofit
-- Increase testability
 - Separating App in layers and applying Clean Architecture
 - Android Dev Team size: 3 - 12
 
