@@ -42,7 +42,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Integration of Crashlytics
 - Android Dev Team size: 3 - 7
 	     
-### **Junior Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_
+### **Junior/Mid Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_
  _Zalando is a leading European online platform for fashion and lifestyle._
 - Developed and published the very first Zalando Shopping Android App 1.0
 - Developed the Zalon Android App
