@@ -22,7 +22,7 @@ _NordSecurity shapes a more trusted and peaceful online future for people everyw
 - Integrating Lint and Detekt checks to ensure a clean codebase
 - Android Dev Team size: 1 - 3
 
-### **Senior Android Developer** @ [Sensorberg GmbH](https://sensorberg.com) _(2019 - 2022)_
+### **Senior Android Developer** @ [Sensorberg](https://sensorberg.com) _(2019 - 2022)_
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._
 - Development and maintainance of whitelabel Sensorberg Android App, SDK and Libraries
 - Implement Access Controll via QR-Code, NFC, Bluetooth and IP
@@ -33,7 +33,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 - Develop and maintain GitLab CI pipeline
 - Android Dev Team size: 1 - 2
 
-### **Senior Android Developer** @ [Zattoo Deutschland GmbH](https://zattoo.com/company/en/about-us/) _(2016 - 2019)_
+### **Senior Android Developer** @ [Zattoo](https://zattoo.com/company/en/about-us/) _(2016 - 2019)_
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._
 - Develop the whitelabel Zattoo App available for Mobile, AndroidTV and FireTV
 - Increase testability using MVP and Dagger2
@@ -42,7 +42,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Integration of Crashlytics
 - Android Dev Team size: 3 - 7
 	     
-### **Junior/Mid Android Developer** @ [Zalando SE](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_
+### **Junior/Mid Android Developer** @ [Zalando](https://corporate.zalando.com/en/newsroom) _(2013 - 2016)_
  _Zalando is a leading European online platform for fashion and lifestyle._
 - Developed and published the very first Zalando Shopping Android App 1.0
 - Developed the Zalon Android App
