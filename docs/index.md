@@ -1,6 +1,6 @@
 # Christian Bunk
 Berlin, Germany <br>
-christian@bunk.simplelogin.com
+cv@bunk.simplelogin.com
 
 Product-minded engineer with more than 11 years professional experience developing Android applications. <br>
 I had the chance working in different domains like e-commerce, IP TV streaming, access control and security. <br>
