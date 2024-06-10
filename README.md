@@ -6,3 +6,5 @@
 * [Carolyn Stransky CV](https://github.com/carolstran/cv)
 * [What a Good Developer Resume Looks Like](https://thetechresume.com/)
 * [The Pragmatic Engineer's Resume Template](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
+
+[markdown-emojis](https://github.com/markdown-templates/markdown-emojis)
