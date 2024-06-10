@@ -7,7 +7,6 @@ I had the chance working in different domains like e-commerce, IP TV streaming, 
 I strongly focus on clear communication, testing, getting things done and clean code.
 
 ## Experience
-
 ### Senior Android Developer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
 - Developing NordLayer (cybersecurity tools for businesses) VPN Android App
@@ -49,7 +48,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 
 ## Technologies & Languages
 * Languages: Kotlin, Java, Python, C/C++, Go, Dart, Ruby <br>
-* Technologies: Compose, Coroutines, Dagger 2, Detekt, Espresso, Git, GitLab,  Junit 4/5,  Koin, Mockk, Retrofit, Robolectric, Room, WorkManager <br>
+* Technologies: Biometrics, Bugsnag, CashApp Turbine, Coroutines, Dagger 2, Detekt, Docker, Espresso, Git, GitLab, Gson, IKEv2, Jetpack (Compose, DataStore, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5,  Koin, KSP, Leak Canary, Lint, Mockk, MQTT, OpenVPN, RecyclerView, Retrofit2, Robolectric, RootBeer, Timber, Truth, UI Automator, Unidirectional Data Flow, WireGuard <br>
 
 ## Education
 * **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
