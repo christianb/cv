@@ -1,6 +1,6 @@
 # Christian Bunk
 Berlin, Germany <br>
-cv@bunk.simplelogin.com
+cv@bunk.simplelogin.com, [linkedin.com/in/christianbunk](https://linkedin.com/in/christianbunk), [github.com/christianb](https://github.com/christianb)
 
 I am a product-minded engineer with work experience from different domains like e-commerce, IP TV streaming, access control and security. I strongly focus on clear communication, testing, getting things done and clean code.
 
@@ -47,7 +47,3 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 ## Education
 * **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
 * **B.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2007 - 2010)_
-
-## Links
-* [github.com/christianb](https://github.com/christianb)
-* [linkedin.com/in/christianbunk](https://linkedin.com/in/christianbunk)
