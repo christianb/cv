@@ -14,8 +14,8 @@ _NordSecurity shapes a more trusted and peaceful online future for people everyw
 - Analyze and evaluating new technologies or potential security risks
 - Supporting PO by taking the lead in Scrum planning & Backlog grooming
 - Sharing knowledge by mentoring Junior- and Mid-Level developers
-- Maintaining internal SDKs (artifacts & documentation)
-- Replacing all RxJava with Coroutines and Flow
+- Maintaining public SDKs (artifacts & documentation)
+- Migrating from RxJava to Coroutines and Flow
 - Integrating Lint and Detekt checks to ensure a clean codebase
 
 ### **Senior Android Developer** @ [Sensorberg](https://sensorberg.com) _(2019 - 2022)_
