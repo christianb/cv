@@ -2,9 +2,7 @@
 Berlin, Germany <br>
 cv@bunk.simplelogin.com
 
-Product-minded engineer with more than 11 years professional experience developing Android applications. <br>
-I had the chance working in different domains like e-commerce, IP TV streaming, access control and security. <br>
-I strongly focus on clear communication, testing, getting things done and clean code.
+I am a product-minded engineer with work experience from different domains like e-commerce, IP TV streaming, access control and security. I strongly focus on clear communication, testing, getting things done and clean code.
 
 ## Experience
 ### Senior Android Developer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
