@@ -26,6 +26,7 @@ _Sensorberg develops hardware and software for the digitization from access to b
 - Integration of third party libraries into Sensorberg SDK
 - Working closely with Product, Design, UX, Delivery, Backend-Developers within a SCRUM environment
 - Develop and maintain GitLab CI pipeline
+- Research project for multiplatform support (Flutter vs. KMP)
 
 ### **Senior Android Developer** @ [Zattoo](https://zattoo.com/company/en/about-us/) _(2016 - 2019)_
 _Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices._
@@ -42,7 +43,7 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 
 ## Technologies & Languages
 * Languages: Kotlin, Java, Python, C/C++, Go, Dart, Ruby <br>
-* Technologies: Biometrics, Bugsnag, CashApp Turbine, Coroutines, Dagger 2, Detekt, Docker, Espresso, Git, GitLab, Gson, IKEv2, Jetpack (Compose, DataStore, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5,  Koin, KSP, Leak Canary, Lint, Mockk, MQTT, OpenVPN, RecyclerView, Retrofit2, Robolectric, RootBeer, Timber, Truth, UI Automator, Unidirectional Data Flow, WireGuard <br>
+* Technologies: Biometrics, Bugsnag, CashApp Turbine, Coroutines, Dagger 2, Detekt, Docker, Espresso, Flutter, Git, GitLab, Gson, IKEv2, Jetpack (Compose, DataStore, Kotlin Multiplatform, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5,  Koin, KSP, Leak Canary, Lint, Mockk, MQTT, OpenVPN, RecyclerView, Retrofit2, Robolectric, RootBeer, Timber, Truth, UI Automator, Unidirectional Data Flow, WireGuard <br>
 
 ## Education
 * **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
