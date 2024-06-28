@@ -5,7 +5,7 @@ cv@bunk.simplelogin.com, [linkedin.com/in/christianbunk](https://linkedin.com/in
 I am a product-minded engineer with work experience from different domains like e-commerce, IP TV streaming, access control and security. I strongly focus on clear communication, testing, getting things done and clean code.
 
 ## Experience
-### Senior Android Developer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
+### Senior Android Engineer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
 - Developing NordLayer (cybersecurity tools for businesses) VPN Android App
 - Going from only a few to more than a thousand unit and UI tests to ensure a stable code base
