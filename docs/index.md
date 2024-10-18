@@ -9,14 +9,14 @@ I am a product-minded engineer with work experience from different domains like 
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
 - Developing NordLayer (cybersecurity tools for businesses) VPN Android App
 - Enhanced app stability by increasing the number of unit tests by a factor of 15, along with additional UI and integration tests, resulting in less critical bugs, safer refactorings and improved overall application performance
-- Simplify App release flow. I built a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
-- Significantly decreasing app (clean) build time by extracting native C libraries into separate repositories and providing them as maven artifacts
+- Simplify App release flow by building a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
+- Significantly decreasing app build time by extracting native C libraries into separate repositories and providing them as maven artifacts
 - Analyze and evaluating new technologies or potential security risks
-- Supporting PO by taking the lead in Scrum planning & Backlog grooming
+- Supporting PO by taking the lead in Scrum planning & backlog grooming
 - Sharing knowledge by mentoring Junior- and Mid-Level developers
 - Maintaining public SDKs (artifacts & documentation)
 - Migrating from RxJava to Coroutines and Flow
-- Integrating Lint and Detekt checks to ensure a clean codebase
+- Integrating Lint and Detekt checks to ensure a clean and consistent codebase
 
 ### **Senior Android Developer** @ [Sensorberg](https://sensorberg.com) _(2019 - 2022)_
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._
