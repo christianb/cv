@@ -41,9 +41,13 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Migrate from custom HTTP implementation to Retrofit
 - Separating App in layers and applying Clean Architecture
 
-## Technologies & Languages
-* Languages: Kotlin, Java, Python, C/C++, Go, Dart, Ruby <br>
-* Technologies: Biometrics, Bugsnag, CashApp Turbine, Coroutines, Dagger 2, Detekt, Docker, Espresso, Flutter, Git, GitLab, Gson, IKEv2, Jetpack (Compose, DataStore, Kotlin Multiplatform, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5,  Koin, KSP, Leak Canary, Lint, Mockk, MQTT, OpenVPN, RecyclerView, Retrofit2, Robolectric, RootBeer, Timber, Truth, UI Automator, Unidirectional Data Flow, WireGuard <br>
+## Programming Languages
+* __Primary__ (daily use): Kotlin </br>
+* Familiar (used occasionally or in the past): Java, Python, C/C++, Go, Dart, Haskel, Ruby 
+
+## Technologies & Frameworks
+* __Primary__ (daily use): Coroutines, Detekt, Espresso, Git, GitLab, Gson, Jetpack (Compose, DataStore, Kotlin Multiplatform, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5, Koin, Lint, Mockk, Retrofit2, Robolectric, Timber, Truth </br>
+* Familiar (used occasionally or in the past): Biometrics, Bugsnag, CashApp Turbine, Dagger 2, Docker, Flutter, IKEv2, KSP, Leak Canary, MQTT, OpenVPN, RecyclerView, RootBeer, UI Automator, Unidirectional Data Flow, WireGuard <br>
 
 ## Education
 * **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
