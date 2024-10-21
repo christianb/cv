@@ -42,12 +42,12 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 - Separating App in layers and applying Clean Architecture
 
 ## Programming Languages
-* __Primary__ (daily use): Kotlin </br>
+* __Primary__ (daily use): Kotlin
 * Familiar (used occasionally or in the past): Java, Python, C/C++, Go, Dart, Haskel, Ruby 
 
 ## Technologies & Frameworks
-* __Primary__ (daily use): Coroutines, Detekt, Espresso, Git, GitLab, Gson, Jetpack (Compose, DataStore, Kotlin Multiplatform, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5, Koin, Lint, Mockk, Retrofit2, Robolectric, Timber, Truth </br>
-* Familiar (used occasionally or in the past): Biometrics, Bugsnag, CashApp Turbine, Dagger 2, Docker, Flutter, IKEv2, KSP, Leak Canary, MQTT, OpenVPN, RecyclerView, RootBeer, UI Automator, Unidirectional Data Flow, WireGuard <br>
+* __Primary__ (daily use): Coroutines, Detekt, Espresso, Git, GitLab, Gson, Jetpack (Compose, DataStore, Kotlin Multiplatform, LiveData, Navigation, Room, ViewModel, WorkManager), Junit 4/5, Koin, Lint, Mockk, Retrofit2, Robolectric, Timber, Truth
+* Familiar (used occasionally or in the past): Biometrics, Bugsnag, CashApp Turbine, Dagger 2, Docker, Flutter, IKEv2, KSP, Leak Canary, MQTT, OpenVPN, RecyclerView, RootBeer, UI Automator, Unidirectional Data Flow, WireGuard
 
 ## Education
 * **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
