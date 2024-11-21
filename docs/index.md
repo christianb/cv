@@ -7,7 +7,8 @@ I am a proactive and insightful team player, dedicated to fostering collaboratio
 ## Experience
 ### Senior Android Engineer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
-- Developing NordLayer (cybersecurity tools for businesses) VPN Android App
+- Enhance team productivity and cohesion by improving processes, communication and workflows.
+- Create an inspiring work environment by embracing challenges, seeking solutions and supporting colleagues.
 - Enhanced app stability by increasing the number of unit tests by a factor of 15, along with additional UI and integration tests, resulting in less critical bugs, safer refactorings and improved overall application performance
 - Simplify App release flow by building a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
 - Significantly decreasing app build time by extracting native C libraries into separate repositories and providing them as maven artifacts
