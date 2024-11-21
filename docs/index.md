@@ -2,7 +2,7 @@
 Berlin, Germany <br>
 cv@bunk.simplelogin.com, [linkedin.com/in/christianbunk](https://linkedin.com/in/christianbunk), [github.com/christianb](https://github.com/christianb)
 
-I am a product-minded engineer with work experience from different domains like e-commerce, IP TV streaming, access control and security. I strongly focus on clear communication, testing, getting things done and clean code.
+I am a proactive and insightful team player, dedicated to fostering collaboration, asking thoughtful questions, and driving meaningful discussions to uncover risks and deliver better outcomes. I consistently strive for high-quality results by combining technical expertise with a strong commitment to continuous improvement and innovation. Beyond my core responsibilities, I take the initiative to mentor teammates, enhance workflows, and contribute to building a culture of growth and excellence.
 
 ## Experience
 ### Senior Android Engineer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
