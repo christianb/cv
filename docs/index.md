@@ -7,17 +7,13 @@ I am a proactive and insightful team player, dedicated to fostering collaboratio
 ## Experience
 ### Senior Android Engineer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
-- Enhance team productivity and cohesion by improving processes, communication and workflows.
-- Create an inspiring work environment by embracing challenges, seeking solutions and supporting colleagues.
-- Enhanced app stability by increasing the number of unit tests by a factor of 15, along with additional UI and integration tests, resulting in less critical bugs, safer refactorings and improved overall application performance
-- Simplify App release flow by building a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
-- Significantly decreasing app build time by extracting native C libraries into separate repositories and providing them as maven artifacts
-- Analyze and evaluating new technologies or potential security risks
-- Supporting PO by taking the lead in Scrum planning & backlog grooming
-- Sharing knowledge by mentoring Junior- and Mid-Level developers
+- Reduced app crash rate from over 6% to 0.3% by implementing modular code structure, enhancing maintainability, and writing comprehensive unit, UI, and integration tests.
+- Simplify App release flow by building a fully automated GitLab CI pipeline, including a custom Android Docker image
+- Decreased app build time by extracting native C libraries into separate repositories and providing them as Maven artifacts.
+- Supporting Product Owner by leading Scrum planning and backlog grooming
+- Mentored Junior- and Mid-Level developers to help them grow
 - Maintaining public SDKs (artifacts & documentation)
-- Migrating from RxJava to Coroutines and Flow
-- Integrating Lint and Detekt checks to ensure a clean and consistent codebase
+- Migrated from RxJava to Coroutines to enhance readability, leverage structured concurrency for better resource management, and improve error handling, resulting in a more maintainable and future-proof codebase.
 
 ### **Senior Android Developer** @ [Sensorberg](https://sensorberg.com) _(2019 - 2022)_
 _Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage._
