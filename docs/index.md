@@ -47,5 +47,5 @@ _Zattoo is a TV platform for IP-based transmission of television channels and vi
 * Familiar (used occasionally or in the past): Biometrics, Bugsnag, CashApp Turbine, Dagger 2, Docker, Flutter, IKEv2, KSP, Leak Canary, MQTT, OpenVPN, RecyclerView, RootBeer, UI Automator, Unidirectional Data Flow, WireGuard
 
 ## Education
-* **M.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
-* **B.Sc. Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2007 - 2010)_
+* **Master of Science in Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2010 - 2012)_
+* **Bachelor of Science in Applied Computer Science**, University of Applied Sciences Berlin, Germany _(2007 - 2010)_
