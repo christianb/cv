@@ -7,7 +7,7 @@ I am a proactive and insightful team player, dedicated to fostering collaboratio
 ## Experience
 ### Senior Android Engineer @ [Nord Security](https://nordsecurity.com/about-us) (2022 - Present)
 _NordSecurity shapes a more trusted and peaceful online future for people everywhere._
-- Reduced app crash rate from over 6% to 0.3% by implementing modular code structure, enhancing maintainability, and writing comprehensive unit, UI, and integration tests.
+- Reduced app crash rate from over 6% down to 0.3% by implementing modular code structure, enhancing maintainability, and writing comprehensive unit, UI, and integration tests, and integrating test coverage metrics into CI pipeline
 - Simplify App release flow by building a fully automated GitLab CI pipeline, including a custom Android Docker image
 - Decreased app build time by extracting native C libraries into separate repositories and providing them as Maven artifacts.
 - Supporting Product Owner by leading Scrum planning and backlog grooming
